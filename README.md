@@ -1,2 +1,2 @@
 # excel-challenge
-Homework demo
+Kickstarter Campaign Data and Analysis
